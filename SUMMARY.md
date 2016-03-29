@@ -5,5 +5,5 @@
    * [全局配置](config/qjpz.md)
    * [公共配置](config/ggpz.md)
    * [数据库配置](config/sjkpz.md)
-   * 项目设置
+   * [项目设置](config/项目配置.md)
 
