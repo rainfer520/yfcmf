@@ -13,3 +13,4 @@ return array (
   'DB_PREFIX' => 'yf_',//数据库前缀
 );
 ```
+初始安装后，就会生成db.php，并保存安装时的设置
