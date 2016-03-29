@@ -1,5 +1,10 @@
 # 全局配置
-```//检测php版本
+路径：
+> data/conf/global.php
+
+
+```
+//检测php版本
 if (version_compare(PHP_VERSION, '5.3.0', '<')) {
     die ('require PHP > 5.3.0 !');
 }
@@ -15,4 +20,5 @@ if (file_exists(YFCONF_PATH . 'debug.lock') || !file_exists(YFCONF_PATH . 'insta
 }
 //存在版本文件就加载
 (!file_exists($file = YFCONF_PATH . 'version.php')) && exit('Missing ' . YFCONF_PATH . 'version.php');
-include $file;```
+include $file;
+```
