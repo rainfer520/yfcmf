@@ -22,3 +22,5 @@ return array(
     'UPLOADPATH'=>__ROOT__ . '/data/upload',//上传路径
 );
 ```
+
+路径：data/conf/config.php(此设置为后台设置）
