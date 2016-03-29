@@ -4,5 +4,5 @@
 * [配置](config/config.md)
    * [全局配置](config/qjpz.md)
    * [公共配置](config/ggpz.md)
-   * 数据库配置
+   * [数据库配置](config/sjkpz.md)
 
