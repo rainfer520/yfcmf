@@ -1,4 +1,8 @@
 # 公共配置
+路径：
+> app/Common/Conf/config.php
+
+
 ```
 $cfg = array(
 	/*URL设置*/
