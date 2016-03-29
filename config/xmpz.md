@@ -23,4 +23,18 @@ return array(
 );
 ```
 
-路径：data/conf/config.php(此设置为后台设置）
+路径：
+> data/conf/config.php(此设置为后台设置）
+
+
+```
+return array (
+  'APP_SUB_DOMAIN_RULES' => 
+  array (
+    'localhost' => 'Home',
+	'www.rainfer.cn' => 'Home',
+  ),
+  'ADMIN_SCRIPT' => 'admin.php',
+  'URL_MODEL' => 3,
+);
+```
